@@ -1,6 +1,6 @@
-# Bienvenue sur Drakolab 👋
+# Bienvenue sur la page GitHub de Pablo Peiro 👋
 
-- 📫 Contactez-moi sur **remi@drakona.fr**
+- 📫 Contactez-moi sur **pablopeiro210@gmail.com**
 
 [![Dreeckan](https://github-profile-trophy.vercel.app/?username=dreeckan&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
 
