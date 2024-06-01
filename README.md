@@ -2,7 +2,7 @@
 
 - 📫 Contactez-moi sur **pablopeiro210@gmail.com**
 
-[![Dreeckan](https://github-profile-trophy.vercel.app/?username=Pablowpeiro&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
+[![Pablowpeiro](https://github-profile-trophy.vercel.app/?username=Pablowpeiro&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Me retrouver
 
@@ -33,8 +33,4 @@
 ## Quelques stats
 
 ![Contributions GitHub](https://github-readme-stats.vercel.app/api?username=Pablowpeiro&custom_title=Contributions%20GitHub&show_icons=true&locale=fr&count_private=true&hide=stars,issues&bg_color=0d1117&hide_border=true&icon_color=52BFEA&text_color=FFF&title_color=52BFEA)
-![Contributions GitHub](https://github-readme-stats.vercel.app/api?username=Pablowpeiro&custom_title=Contributions%20GitHub%20de%20l%27Ann%C3%A9e%20Pr%C3%A9c%C3%A9dente&show_icons=true&locale=fr&count_private=true&hide=stars,issues&bg_color=0d1117&hide_border=true&icon_color=52BFEA&text_color=FFF&title_color=52BFEA&since=YEAR-MM-DDT00:00:00Z&hide_rank=true)
-
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pablowpeiro&hide_border=true&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF)](https://git.io/streak-stats) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pablowpeiro&hide_border=true&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&since=YEAR-MM-DDT00:00:00Z)](https://git.io/streak-stats)
