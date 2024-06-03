@@ -2,7 +2,10 @@
 
 - 📫 Contactez-moi sur **pablopeiro210@gmail.com**
 
-[![Pablowpeiro](https://github-profile-trophy.vercel.app/?username=Pablowpeiro&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
+## À propos de moi
+
+Je suis étudiant en fin de deuxième année à EPITECH Technologie Paris et je travaille actuellement chez POC Services, où je suis chargé de trouver des missions pour l'entreprise.
+Prenez le temps de parcourir mon Profil, je suis à votre disposition pour échanger.
 
 ## Me retrouver
 
