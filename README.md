@@ -4,7 +4,7 @@
 
 ## À propos de moi
 
-Je suis étudiant en fin de deuxième année à EPITECH Technologie Paris et je travaille actuellement chez POC Services, où je suis chargé de trouver des missions pour l'entreprise.
+Je suis étudiant en fin de deuxième année à EPITECH Technologie Paris et je travaille actuellement chez POC Services.
 Prenez le temps de parcourir mon Profil, je suis à votre disposition pour échanger.
 
 ## Me retrouver
