@@ -16,16 +16,17 @@ Je suis étudiant en fin de deuxième année à EPITECH Technologie Paris et je 
 [![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift&logoColor=FA7343)](https://swift.org/)
 [![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=A8B9CC)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B&logoColor=00599C)](https://isocpp.org/)
-[![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)](https://www.linux.org/)
-[![Fedora](https://img.shields.io/badge/-Fedora-000?&logo=Fedora&logoColor=294172)](https://getfedora.org/)
-[![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://www.github.com/)
 [![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)](https://developer.mozilla.org/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/docs/Web/CSS)
 [![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=61DAFB)](https://reactjs.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=4FC08D)](https://vuejs.org/)
 [![Material-UI](https://img.shields.io/badge/-Material%20UI-000?&logo=Material-UI&logoColor=0081CB)](https://mui.com/)
+
+[![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)](https://www.linux.org/)
+[![Fedora](https://img.shields.io/badge/-Fedora-000?&logo=Fedora&logoColor=294172)](https://getfedora.org/)
+[![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://www.github.com/)
 
 ## En apprentissage / perfectionnement
 
