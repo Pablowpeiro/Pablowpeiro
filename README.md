@@ -34,9 +34,3 @@ Je suis étudiant en fin de deuxième année à EPITECH Technologie Paris et je 
 [![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&logoColor=F24E1E)](https://www.figma.com/)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=TailwindCSS&logoColor=06B6D4)](https://tailwindcss.com/)
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=3776AB)](https://www.python.org/)
-
-## Quelques stats
-
-![Contributions GitHub](https://github-readme-stats.vercel.app/api?username=Pablowpeiro&custom_title=Contributions%20GitHub&show_icons=true&locale=fr&count_private=true&hide=stars,issues&bg_color=0d1117&hide_border=true&icon_color=52BFEA&text_color=FFF&title_color=52BFEA&token=YOUR_TOKEN)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pablowpeiro&hide_border=true&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&count_private=true)](https://git.io/streak-stats)
