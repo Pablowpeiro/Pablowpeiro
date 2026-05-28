@@ -44,12 +44,6 @@ public:
   <img src="https://skillicons.dev/icons?i=c,cpp,js,react,vue,tailwind,python,haskell,git,linux,figma,vscode" />
 </p>
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pablowpeiro&theme=github-compact&hide_border=true"/>
-</p>
-
 ## Overview
 
 <p align="center">
