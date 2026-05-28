@@ -1,13 +1,3 @@
-Voici une version beaucoup plus stylée de ton `README.md` GitHub avec :
-
-* animations visuelles via badges
-* sections propres
-* barres de progression
-* icônes cool
-* stats GitHub
-* vibe dev moderne 🔥
-
-````md
 <h1 align="center">Salut, moi c'est Pablo Peiro 👋</h1>
 
 <p align="center">
