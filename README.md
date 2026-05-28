@@ -29,6 +29,7 @@ public:
     std::string school = "EPITECH Paris";
     std::string role = "Fullstack Developer";
     std::string company = "MK2 Innov";
+    bool coffee = true;
 
     std::vector<std::string> stack = {
         "C", "C++", "JavaScript", "React",
