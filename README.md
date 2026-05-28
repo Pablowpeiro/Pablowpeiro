@@ -1,119 +1,94 @@
 <h1 align="center">Pablo Peiro</h1>
 
 <p align="center">
-  <strong>EPITECH Paris — Fullstack Developer</strong>
+  EPITECH Paris • Fullstack Developer
 </p>
 
 <p align="center">
   <a href="mailto:pablo.peiro@epitech.eu">
     <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://www.linkedin.com/in/pablo-peiro-853b3a24b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/PabloPeiro">
+
+  <a href="https://github.com/Pablowpeiro">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## Profile
+## Profil
 
 ```cpp
-class PabloPeiro {
-    public:
-        std::string school = "EPITECH Paris";
-        std::string role = "Fullstack Developer";
-        std::string company = "MK2 Innov";
+class Developer {
+public:
+    std::string name = "Pablo Peiro";
+    std::string school = "EPITECH Paris";
+    std::string role = "Fullstack Developer";
+    std::string company = "MK2 Innov";
 
-        std::vector<std::string> stack = {
-            "C", "C++", "React", "Vue",
-            "JavaScript", "Tailwind"
-        };
-
-        bool coffee = true;
+    std::vector<std::string> stack = {
+        "C", "C++", "JavaScript", "React",
+        "Vue", "Python", "Tailwind"
+    };
 };
-````
+```
 
----
-
-## Tech Stack
+## Stack technique
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,js,react,vue,tailwind,python,haskell,git,linux,figma,vscode" />
 </p>
 
----
-
-## Engineering Skills
+## GitHub Activity
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/C/C++-Advanced-222222?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Frontend-React_&_Vue-222222?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/UI-TailwindCSS-222222?style=flat-square&logo=tailwindcss&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/OS-Linux-222222?style=flat-square&logo=linux&logoColor=FCC624"/>
-<img src="https://img.shields.io/badge/Tools-Git_&_GitHub-222222?style=flat-square&logo=git&logoColor=F05032"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pablowpeiro&theme=github-compact&hide_border=true"/>
 </p>
 
----
-
-## Activity Graph
+## Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PabloPeiro&theme=github-compact&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pablowpeiro&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablowpeiro&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
----
-
-## GitHub Metrics
+## Overview
 
 <p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PabloPeiro&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pablowpeiro&theme=github_dark"/>
 </p>
 
 <p align="center">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PabloPeiro&theme=github_dark"/>
-
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PabloPeiro&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pablowpeiro&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pablowpeiro&theme=github_dark"/>
 </p>
 
----
-
-## Contribution Snake
+## Contribution Graph (Snake)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PabloPeiro/PabloPeiro/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/Pablowpeiro/Pablowpeiro/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
----
+## Focus actuel
 
-## Current Focus
+* Architecture frontend moderne
+* Applications web scalables
+* UI / UX engineering
+* Optimisation performance
+* Backend Python
 
-* Frontend Architecture
-* UI / UX Engineering
-* Scalable Web Applications
-* Performance Optimization
-* Python Backend
-
----
-
-## Environment
+## Environnement
 
 <p align="center">
+  <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/System-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Shell-Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:111827&height=2"/>
+  <img src="https://img.shields.io/badge/Versioning-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 <p align="center">
-  <i>"Clean code. Clean architecture. Clean UI."</i>
+  Clean code • Clean architecture • Clean UI
 </p>
