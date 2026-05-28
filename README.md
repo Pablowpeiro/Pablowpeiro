@@ -1,36 +1,125 @@
-# Bienvenue sur la page GitHub de Pablo Peiro 👋
+Voici une version beaucoup plus stylée de ton `README.md` GitHub avec :
 
-- 📫 Contactez-moi sur **pablopeiro210@gmail.com**
+* animations visuelles via badges
+* sections propres
+* barres de progression
+* icônes cool
+* stats GitHub
+* vibe dev moderne 🔥
 
-## À propos de moi
+````md
+<h1 align="center">Salut, moi c'est Pablo Peiro 👋</h1>
 
-Je suis étudiant en 4eme année à EPITECH Technologie Paris et je travaille actuellement chez MK2 innov. Prenez le temps de parcourir mon Profil, je suis à votre disposition pour échanger.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+EPITECH+Student;%F0%9F%92%BB+Fullstack+Developer;%F0%9F%94%A5+Passionn%C3%A9+par+la+tech;%F0%9F%8E%AE+Creative+Coder" alt="Typing SVG" />
+</p>
 
-## Me retrouver
+---
 
-[![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/Pablowpeiro)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](www.linkedin.com/in/pablo-peiro-853b3a24b)
+# 🚀 À propos de moi
 
-## Langages et outils
+🎓 Étudiant en 4ème année à **EPITECH Paris**  
+💼 Actuellement chez **MK2 Innov**  
+🧠 Passionné par le développement logiciel, les interfaces modernes et les technos web  
+⚡ Toujours en train d'apprendre de nouvelles choses et de créer des projets cools
 
-[![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift&logoColor=FA7343)](https://swift.org/)
-[![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=A8B9CC)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B&logoColor=00599C)](https://isocpp.org/)
-[![Haskell](https://img.shields.io/badge/-Haskell-000?&logo=Haskell&logoColor=5D4F85)](https://www.haskell.org/)
-[![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)](https://developer.mozilla.org/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/docs/Web/CSS)
-[![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=61DAFB)](https://reactjs.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/docs/Web/JavaScript)
-[![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=4FC08D)](https://vuejs.org/)
+---
 
-[![Material-UI](https://img.shields.io/badge/-Material%20UI-000?&logo=Material-UI&logoColor=0081CB)](https://mui.com/)
-[![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)](https://www.linux.org/)
-[![Fedora](https://img.shields.io/badge/-Fedora-000?&logo=Fedora&logoColor=294172)](https://getfedora.org/)
-[![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://www.github.com/)
+# 📫 Contact
 
-## En apprentissage / perfectionnement
+<p align="center">
+  <a href="mailto:pablopeiro210@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-[![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&logoColor=F24E1E)](https://www.figma.com/)
-[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=TailwindCSS&logoColor=06B6D4)](https://tailwindcss.com/)
-[![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=3776AB)](https://www.python.org/)
+  <a href="https://www.linkedin.com/in/pablo-peiro-853b3a24b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Langages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,haskell,python" />
+</p>
+
+## ⚛️ Frontend & Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,tailwind,materialui" />
+</p>
+
+## 🧰 Outils & Environnement
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,fedora,figma,vscode" />
+</p>
+
+---
+
+# 📈 Niveau actuel
+
+## 🔥 Langages principaux
+
+```text
+C / C++       ████████████████░░   85%
+JavaScript    ██████████████░░░░   75%
+React         █████████████░░░░░   70%
+Vue.js        ████████████░░░░░░   60%
+Python        █████████░░░░░░░░░   45%
+Haskell       ████████░░░░░░░░░░   40%
+````
+
+---
+
+# 🌱 En apprentissage
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Currently_Learning-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UI/UX-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backend-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TON_USERNAME&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+# ✨ Fun Fact
+
+```js
+while(alive) {
+   eat();
+   code();
+   sleep();
+   repeat();
+}
+```
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
+</p>
+```
+
+Pense juste à remplacer `TON_USERNAME` par ton vrai pseudo GitHub 🔥
