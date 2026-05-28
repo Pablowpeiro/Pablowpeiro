@@ -50,13 +50,6 @@ public:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pablowpeiro&theme=github-compact&hide_border=true"/>
 </p>
 
-## Stats GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pablowpeiro&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablowpeiro&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
-</p>
-
 ## Overview
 
 <p align="center">
@@ -66,12 +59,6 @@ public:
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pablowpeiro&theme=github_dark"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pablowpeiro&theme=github_dark"/>
-</p>
-
-## Contribution Graph (Snake)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pablowpeiro/Pablowpeiro/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ## Focus actuel
