@@ -62,9 +62,9 @@ Haskell        ████████░░░░░░░░░░░░   40
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pablo.peiro@epitech.eu&show_icons=true&theme=transparent&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pablowpeiro&show_icons=true&theme=transparent&hide_border=true"/>
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo.peiro@epitech.eu&layout=compact&theme=transparent&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablowpeiro&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
 ---
