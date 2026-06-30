@@ -50,19 +50,6 @@ public:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pablowpeiro&theme=github_dark"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pablowpeiro&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pablowpeiro&theme=github_dark"/>
-</p>
-
-## Focus actuel
-
-* Architecture frontend moderne
-* Applications web scalables
-* UI / UX engineering
-* Optimisation performance
-* Backend Python
-
 ## Environnement
 
 <p align="center">
